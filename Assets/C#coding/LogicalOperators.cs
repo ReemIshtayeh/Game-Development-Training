@@ -30,18 +30,18 @@ public class LogicalOperators : MonoBehaviour
     //   Debug.Log((3 >= 2) && !(6 < 3));
    
     //Question 2
-    int x=3;
-    int y=5;
+    // int x=3;
+    // int y=5;
 
-    Debug.Log( (5 + 3) * 2 - 4 / 2);
-    Debug.Log(10 - 3 * 2 + 4);
-    Debug.Log(2 + 3 * 4 > 10 && 4 <= 4);
-    Debug.Log(!(10 >= 5) || 7 != 3);
-    Debug.Log((8 % 3 + 2) * 4 - 6);
-    Debug.Log(10 == 5 + 5 && 4 > 2 || 3 < 1);
-    Debug.Log(++x * 2 - --y / 2 );
-    Debug.Log((4 + 5 * 2) != 13 || (6 / 2 == 3));
-    Debug.Log(6 >= 3 * 2 && (5 % 2 == 1));
+    // Debug.Log( (5 + 3) * 2 - 4 / 2);
+    // Debug.Log(10 - 3 * 2 + 4);
+    // Debug.Log(2 + 3 * 4 > 10 && 4 <= 4);
+    // Debug.Log(!(10 >= 5) || 7 != 3);
+    // Debug.Log((8 % 3 + 2) * 4 - 6);
+    // Debug.Log(10 == 5 + 5 && 4 > 2 || 3 < 1);
+    // Debug.Log(++x * 2 - --y / 2 );
+    // Debug.Log((4 + 5 * 2) != 13 || (6 / 2 == 3));
+    // Debug.Log(6 >= 3 * 2 && (5 % 2 == 1));
 
     //Question 3
     int playerLive=3;
