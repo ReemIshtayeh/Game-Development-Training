@@ -8,10 +8,10 @@ namespace Assignment29
 
         void Start()
         {
-            //Specific Requirements 
+            //Specific Requirements in part 1
             var a = 5;
-            var stringVal = "Reem";
-            var boolVal = true;
+            //var stringVal = "Reem";
+           // var boolVal = true;
             string result = a % 2 == 1 ? "odd" : "even";
             Debug.Log($"The number {a} is {result}");
             Debug.Log(System.DateTime.Now.Date);
